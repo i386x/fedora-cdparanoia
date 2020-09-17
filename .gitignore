@@ -1,0 +1,6 @@
+*.#463009
+*.endian
+*.install
+*.fmt-sec
+*.config
+*.ldflags
